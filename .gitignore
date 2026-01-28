@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Datasets (VERY IMPORTANT)
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+lesion_masks/
+models/
+
+# CSV dataset files
+*.csv
+*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Logs
+*.log
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
